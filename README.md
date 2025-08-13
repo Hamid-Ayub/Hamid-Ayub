@@ -1,8 +1,9 @@
-# Principal Software Engineer | Blockchain & GenAI Expert | Product Leader  
+# Principal Software Engineer | Full-Stack (MERN, Next.js, Python) | Blockchain & AI Solutions Architect | SaaS & Cloud Expert
 
 🔹 **Multi-Stack Specialist** | **MERN & Full-Stack Architect** | **Entrepreneur**  
 🔹 **Blockchain & Generative AI Innovator** | **Data Science & AI Engineering**  
 🔹 **Industry Expertise:** **Fintech, B2B SaaS, E-commerce, DeFi, Healthcare, Mobile Apps**  
+
 
 ## 🏆 About Me  
 

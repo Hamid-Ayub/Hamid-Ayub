@@ -1,9 +1,10 @@
-# Principal Software Engineer | Full-Stack (MERN, Next.js, Python) | Blockchain & AI Solutions Architect | SaaS & Cloud Expert
+# Principal Software Engineer | Blockchain & AI Solutions Architect | SaaS & Cloud Expert
 
 🔹 **Multi-Stack Specialist** | **MERN & Full-Stack Architect** | **Entrepreneur**  
 🔹 **Blockchain & Generative AI Innovator** | **Data Science & AI Engineering**  
 🔹 **Industry Expertise:** **Fintech, B2B SaaS, E-commerce, DeFi, Healthcare, Mobile Apps**  
 
+| For consulting, case studies, and collaboration → https://hamidayub.com
 
 ## 🏆 About Me  
 
@@ -52,6 +53,7 @@ With over **7+ years** of experience in **software engineering, product developm
 - **📊 AI-Based SaaS for Predictive Analytics** (LLM, NLP, Cloud-native)  
 
 ---
+| Detailed case studies → hamidayub.com/work
 
 ## 🤝 **Let's Connect!**  
 

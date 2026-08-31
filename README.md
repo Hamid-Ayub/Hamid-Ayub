@@ -1,18 +1,18 @@
 # Principal Software Engineer | AI Agentic Solutions Architect | SaaS & Cloud Expert
 
-🔹 **Multi-Stack Specialist** | **MERN & Full-Stack Architect** | **Entrepreneur**  
+🔹 **Multi-Stack Specialist** | **MERN & Full-Stack Architect** | **Multi-Agent Architect**  
 🔹 **Generative AI Innovator** | **Data Science & AI Engineering**  
 🔹 **Industry Expertise:** **Fintech, B2B SaaS, E-commerce, DeFi, Healthcare, Mobile Apps**  
 
-- For consulting, case studies, and collaboration → **https://hamidayub.com**
+- For case studies, and collaboration → **https://hamidayub.com**
 
 ## 🏆 About Me  
 
 With over **7+ years** of experience in **software engineering, product development, and AI-driven solutions**, I specialize in building **scalable, high-performance** applications.  
 
-- **Currently Leading** **Blockchain & Generative AI** solutions for **2.5+ years**  
+- **Currently Leading** **Generative AI** solutions for **2.5+ years**  
 - **Former Entrepreneur** | **Built & Scaled Software Development Firms**  
-- **Expert in AI-driven SaaS, Smart Contracts, and LLM-powered Applications**  
+- **Expert in AI-driven SaaS, AI Agents, and LLM-powered Applications**  
 
 ---
 
@@ -27,7 +27,6 @@ With over **7+ years** of experience in **software engineering, product developm
 
 | ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20ChatGPT%20%7C%20DALL·E-412991?style=flat&logo=openai) | ![ML](https://img.shields.io/badge/ML%20Frameworks-TensorFlow%20%7C%20PyTorch%20%7C%20Scikit--Learn-FF6F00?style=flat&logo=tensorflow) | ![Vector DBs](https://img.shields.io/badge/Vector%20DBs-Pinecone%20%7C%20FAISS%20%7C%20Weaviate-008080?style=flat) |
 |----------------------|-----------------|---------------------|
-
 
 ---
 
@@ -71,4 +70,4 @@ Detailed case studies → https://hamidayub.com/work
 | ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble) | [Dribbble Designs](https://dribbble.com/HaMi33) |
 | ![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance) | [Behance Portfolio](https://www.behance.net/hamidayub1) |
 
-🔹 Open to **collaborations, AI/Blockchain consulting, and speaking opportunities**!  
+🔹 Open to **collaborations, AI Work, and discussion opportunities**!  

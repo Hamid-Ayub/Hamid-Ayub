@@ -1,7 +1,7 @@
-# Principal Software Engineer | Blockchain & AI Solutions Architect | SaaS & Cloud Expert
+# Principal Software Engineer | AI Agentic Solutions Architect | SaaS & Cloud Expert
 
 🔹 **Multi-Stack Specialist** | **MERN & Full-Stack Architect** | **Entrepreneur**  
-🔹 **Blockchain & Generative AI Innovator** | **Data Science & AI Engineering**  
+🔹 **Generative AI Innovator** | **Data Science & AI Engineering**  
 🔹 **Industry Expertise:** **Fintech, B2B SaaS, E-commerce, DeFi, Healthcare, Mobile Apps**  
 
 - For consulting, case studies, and collaboration → **https://hamidayub.com**
@@ -28,10 +28,6 @@ With over **7+ years** of experience in **software engineering, product developm
 | ![LLMs](https://img.shields.io/badge/LLMs-OpenAI%20%7C%20ChatGPT%20%7C%20DALL·E-412991?style=flat&logo=openai) | ![ML](https://img.shields.io/badge/ML%20Frameworks-TensorFlow%20%7C%20PyTorch%20%7C%20Scikit--Learn-FF6F00?style=flat&logo=tensorflow) | ![Vector DBs](https://img.shields.io/badge/Vector%20DBs-Pinecone%20%7C%20FAISS%20%7C%20Weaviate-008080?style=flat) |
 |----------------------|-----------------|---------------------|
 
-### 🔗 **Blockchain & Web3**  
-
-| ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-Solidity%20%7C%20Rust%20(Solana)-blueviolet?style=flat&logo=ethereum) | ![Web3](https://img.shields.io/badge/Web3-Infura%20%7C%20Alchemy%20%7C%20Moralis-627EEA?style=flat&logo=web3.js) | ![DeFi](https://img.shields.io/badge/DeFi-Ethereum%20%7C%20Polygon%20%7C%20DAOs-darkblue?style=flat&logo=polygon) |
-|---------------------|---------------|--------------|
 
 ---
 
